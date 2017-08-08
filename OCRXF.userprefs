@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{F3543F37-689D-48A1-BCC0-6ACAF9656667}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OCRXF/Models/CognitiveServicesResponseModel.cs">
+    <Files>
+      <File FileName="OCRXF/MainPage.xaml.cs" Line="80" Column="47" />
+      <File FileName="OCRXF/Services/CognitiveService.cs" Line="2" Column="34" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="OCRXF/MainPage.xaml" Line="12" Column="15" />
+      <File FileName="OCRXF/Models/CognitiveServicesResponseModel.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OCRXF.Droid PreferredExecutionTarget="Android.Galaxy_Nexus_API_25" />
+  <MonoDevelop.Ide.ItemProperties.OCRXF.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.267d00819664052cd7f92ff7756a240707621c40" />
+  <MultiItemStartupConfigurations />
+</Properties>

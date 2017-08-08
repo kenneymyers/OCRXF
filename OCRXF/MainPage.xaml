@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="OCRXF.MainPage">
+    <ContentPage.Content>
+        <StackLayout Margin="30">
+            <Button BackgroundColor="Silver" TextColor="Black" x:Name="TakePictureButton" Clicked="TakePictureButton_Clicked" Text="Take Picture from Camera" />
+            <Button BackgroundColor="Silver" TextColor="Black" x:Name="UploadPictureButton" Clicked="UploadPictureButton_Clicked" Text="Upload a Picture" />
+            <Image x:Name="Image1" HeightRequest="200" />
+            <Button BackgroundColor="Silver" TextColor="Black" x:Name="ExractTextButton" Clicked="ExtractTextButton_Clicked" Text="Extract Text Picture" />
+            <Editor x:Name="EntryOCR" Text="" VerticalOptions="FillAndExpand" Keyboard="Chat" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

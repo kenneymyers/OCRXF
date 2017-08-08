@@ -1,0 +1,11 @@
+App.xaml.cs
+Properties/AssemblyInfo.cs
+MainPage.xaml.cs
+HttpWebRequestExtensions.cs
+Services/CognitiveService.cs
+Models/CognitiveServicesResponseModel.cs
+Utilities/ImageStreamUtils.cs
+Utilities/StringUtils.cs
+/var/folders/lf/bnlrq5317cj_czs4c_2r1wdm0000gn/T/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttributes.cs
+obj/Debug/OCRXF.App.xaml.g.cs
+obj/Debug/OCRXF.MainPage.xaml.g.cs

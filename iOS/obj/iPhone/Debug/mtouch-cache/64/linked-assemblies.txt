@@ -1,0 +1,17 @@
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/OCRXF.iOS.exe
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/mscorlib.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Mono.Security.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.Xml.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.Core.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.Forms.Core.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.Forms.Platform.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.Net.Http.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.Runtime.Serialization.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.ServiceModel.Internals.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/OCRXF.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.Forms.Xaml.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Plugin.Media.Abstractions.dll
+/Users/ken/Projects/OCRXF/iOS/bin/iPhone/Debug/OCRXF.iOS.app:/Users/ken/Projects/OCRXF/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Plugin.Media.dll
